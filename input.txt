@@ -1,0 +1,51 @@
+4.2 – Change Management
+
+Change Management (9:27)
+A formal change control process is used to manage updates and changes in many corporate environments. In this video, you’ll learn about change control, rollback procedures, risk analysis, end-user acceptance, and more.
+
+4.3 – Backup and Recovery
+
+Managing Backups (10:40)
+Is your data backed up? In this video, you’ll compare differential, incremental, and synthetic backups and learn about grandfather-father-son strategies and 3-2-1 strategies.
+
+4.4 – Safety Procedures
+
+Managing Electrostatic Discharge (4:58)
+Static electricity can destroy electronic components in the blink of an eye. In this video, you’ll learn about electrostatic discharge and how to control ESD with anti-static straps, pads, mats, and bags.
+
+
+Safety Procedures (3:57)
+It’s important to maintain a safe environment when working with powered electronic equipment. In this video, you’ll learn about electrical safety, equipment grounding, electrical fire protection, and more.
+
+4.5 – Environmental Impacts
+
+Environmental Impacts (5:15)
+IT professionals often have to manage and protect against hazardous waste and environmental challenges. In this video, you’ll learn about Material Safety Data Sheets, battery disposal, toner cartridge recycling, and power management options.
+
+4.6 – Privacy and Policies
+
+Privacy, Licensing, and Policies (12:10)
+It’s important to know about the administrative tasks associated with privacy settings, software licensing, and security policies. In this video, you’ll learn about chain of custody, software license types, payment card security, protected health information, and more.
+
+4.7 – Communication and Professionalism
+
+Communication (5:21)
+The key to a successful project is an open line of communication. In this video, you’ll learn about avoiding jargon, maintaining a positive attitude, avoiding interrupting, clarifying customer statements, and setting expectations.
+
+
+Professionalism (4:30)
+It’s always important to maintain professionalism in the workplace. In this video, you’ll learn about professional appearance, avoiding distractions, handling difficult situations, and maintaining confidentiality.
+
+4.8 – Scripting
+
+Scripting Languages (4:47)
+Automation is a common way to manage enterprise technologies. In this video, you’ll learn about batch files, PowerShell, Visual Basic Scripting Edition, shell scripts, JavaScript, and Python.
+
+
+Scripting Use Cases (5:40)
+There are many reasons to add automation to your network. In this video, you’ll learn about restarting computers, mapping network drives, application installations, automated backups, and more.
+
+4.9 – Remote Access
+
+Remote Access (10:57)
+There are many ways to gain remote access to a system. In this video, you’ll learn about Remote Desktop Protocol, Virtual Network Computing, secure shell, remote monitoring and management, and much more.
